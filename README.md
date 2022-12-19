@@ -26,7 +26,7 @@ The Vital Sign Monitoring Project (Heart and Respiration Rate Monitoring) overvi
 
 ![image](https://user-images.githubusercontent.com/47445756/189482367-0ec0985c-0597-4574-ab69-bfaf3e52761b.png)
 <p align="center">
-  <em>Fig. 4: Architecure flow of the Vital Sign Monitoring Project (Heart and Respiration Rate Monitoring)</em>  
+  <em>Fig. 4: Architecture flow of the Vital Sign Monitoring Project (Heart and Respiration Rate Monitoring)</em>  
 </p>
 
 The operation of the smartphone is as follows:
