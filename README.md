@@ -2,7 +2,7 @@
 
 - ***"Radar IQ Signal Extraction Code for heart rate and breathing measurement"*** is intended to program the XMC4700 MCU on DEMO Infineon Technologies Sense2GoL Pulse radar board to get I/Q signals from radar transmission and reception signals.
 
-- ***"Raspberry-Pi Code for Advanced Signal Processing"*** is intended to perform advanced signal processing (mainly using VMD) to estimate heart and breathing rate from I/Q signals from the Sense2GoL Pulse radar board.
+- ***"Raspberry-Pi Code for Advanced Signal Processing"*** is intended to perform advanced signal processing (mainly using VMD) to estimate heart and breathing rate from I/Q signals from the Sense2GoL Puls Radar Board.
 
 - ***"Mobile Application Code"*** is intended to create a flutter application over Android/iOS, to get the heart and breathing rate from raspbery-pi. The communication used is in the form of beacons using BLE.
 
